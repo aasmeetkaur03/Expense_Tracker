@@ -41,9 +41,7 @@ This project helped me Revisit:
 
 ## 🧾 Example Output
 
-============================
-EXPENSE TRACKER
-============================
+==== EXPENSE TRACKER ====
 
 Add Expense
 
