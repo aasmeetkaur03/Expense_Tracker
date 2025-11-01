@@ -1,4 +1,3 @@
-# Expense_Tracker
 # 💰 Expense Tracker in C++
 
 A Simple and Practical **Expense Tracker** built using **C++**, Designed to Record, View and Analyze Daily Expenses directly from the Console.  
@@ -44,6 +43,7 @@ This project helped me Revisit:
 
 ============================
 EXPENSE TRACKER
+============================
 
 Add Expense
 
